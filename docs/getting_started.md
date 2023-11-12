@@ -4,7 +4,7 @@ Whether you're developing a website with Facebook login, creating a Facebook Can
 
 ## System requirements
 
-- PHP 7.4 or PHP 8.0 (or greater)
+- PHP 8.0 (or greater)
 - [Composer](https://getcomposer.org/)
 
 ## Installing the Facebook SDK for PHP
@@ -12,7 +12,7 @@ Whether you're developing a website with Facebook login, creating a Facebook Can
 The Facebook SDK for PHP is installed with [Composer](#installing-with-composer-recommended). Simply run the following in the root of your project.
 
 ```
-composer require joelbutcher/facebook-graph-sdk
+composer require sigma-smartcomm/facebook-php-graph-sdk
 ```
 
 > The Facebook SDK starting adhering to [SemVer](http://semver.org/) with version 5. Previous to version 5, the SDK did not follow SemVer.
